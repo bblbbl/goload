@@ -1,0 +1,5 @@
+package goload
+
+func main() {
+
+}
